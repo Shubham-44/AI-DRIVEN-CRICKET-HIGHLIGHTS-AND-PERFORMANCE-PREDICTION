@@ -1,0 +1,7 @@
+#path: /Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/split
+path: /content/drive/MyDrive/CricketAnnotationAI/split
+train: images/train
+val: images/val
+
+nc: 4
+names: ['catch', 'boundary', 'celebration', 'wicket']
