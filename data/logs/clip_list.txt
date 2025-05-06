@@ -1,0 +1,6 @@
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_boundary_celebration_0:00:07.mp4'
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_catch_celebration_0:00:26.mp4'
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_catch_celebration_0:02:20.mp4'
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_catch_celebration_0:03:02.mp4'
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_catch_celebration_0:04:47.mp4'
+file '/Users/shubhamdarkad/Desktop/Data_Science/MSc_Project/CricketAnnotationAI/data/clips_batch/WIVsIND_catch_celebration_0:05:03.mp4'

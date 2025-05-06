@@ -1,0 +1,4 @@
+clip_name,event_1,event_2,start_time,end_time,start_frame,end_frame,fps
+highlight_boundary_celebration_0:00:31.mp4,boundary,celebration,0:00:31,0:00:39,310,390,10.0
+highlight_catch_celebration_0:00:41.mp4,catch,celebration,0:00:41,0:00:50,410,500,10.0
+highlight_catch_celebration_0:01:26.mp4,catch,celebration,0:01:26,0:01:34,860,940,10.0

@@ -1,0 +1,9 @@
+clip_name,event_1,event_2,start_time,end_time,start_frame,end_frame,fps
+WIVsIND_boundary_celebration_0:00:07.mp4,boundary,celebration,0:00:07,0:00:15,210,450,30.0
+WIVsIND_boundary_celebration_0:00:08.mp4,boundary,celebration,0:00:08,0:00:16,240,480,30.0
+WIVsIND_catch_celebration_0:00:11.mp4,catch,celebration,0:00:11,0:00:19,330,570,30.0
+WIVsIND_boundary_celebration_0:00:12.mp4,boundary,celebration,0:00:12,0:00:20,360,600,30.0
+WIVsIND_catch_celebration_0:00:26.mp4,catch,celebration,0:00:26,0:00:34,780,1020,30.0
+WIVsIND_catch_celebration_0:02:20.mp4,catch,celebration,0:02:20,0:02:28,4200,4440,30.0
+WIVsIND_boundary_celebration_0:02:23.mp4,boundary,celebration,0:02:23,0:02:31,4290,4530,30.0
+WIVsIND_boundary_celebration_0:02:24.mp4,boundary,celebration,0:02:24,0:02:32,4320,4560,30.0
